@@ -1,5 +1,4 @@
-length = 18
-width = 7
+length, width = 18, 7
 
 
 def find_perimeter(l, w):
